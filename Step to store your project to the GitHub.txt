@@ -1,0 +1,18 @@
+ uplode the project to github
+
+1)select the folder to post on github
+=> a)open project folder right click on folder select gitdash.
+   b) search on computer gitdash open on run as administritor. 
+     select the project folder path type on dash= cd "pest that path".
+2) git config --global user.name ("your name")
+
+3)git config --global user.email ("your email id")
+
+4)touch .gitignore
+5) git init
+6)git add .
+7)git commit -m "Initial commit"
+8)git status #just to see
+9)git remote add origin <pest your present on Github ssh url.git>
+10)git push origin master
+	
